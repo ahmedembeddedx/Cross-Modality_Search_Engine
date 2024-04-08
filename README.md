@@ -6,6 +6,8 @@ This project is a Multi-Modal Search Engine developed using CLIP by OpenAI, with
 
 The Multi-Modal Search Engine leverages the power of CLIP (Contrastive Language-Image Pre-training) developed by OpenAI to enable users to search for images using natural language queries. This project provides a seamless web interface where users can input text queries, and the system retrieves relevant images based on the textual description.
 
+[![Demo](https://img.youtube.com/vi/YH7euOVIIYU/0.jpg)](https://www.youtube.com/watch?v=YH7euOVIIYU)
+
 ## Features
 
 - **Multi-Modal Search:** Users can input textual descriptions of images to retrieve relevant images.
