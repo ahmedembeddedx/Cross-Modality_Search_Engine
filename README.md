@@ -1,7 +1,3 @@
-Certainly! Below is a template for your README.md file for the Multi-Modal Search Engine project:
-
----
-
 # Multi-Modal Search Engine
 
 This project is a Multi-Modal Search Engine developed using CLIP by OpenAI, with Flask API for backend and React for the frontend web application.
