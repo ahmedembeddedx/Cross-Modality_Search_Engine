@@ -54,7 +54,9 @@ def get_images(text_query, folder_name = "static"):
     result_images = []
     for image_path, score in top_images:
         formatted_image_path = image_path.replace('.pt', '').replace('image_embeddings', folder_name)
-        result_images.append((formatted_image_path, Image.open(formatted_image_path), score))
+        image = Image.open(formatted_image_path)
+        
+        result_images.append((formatted_image_path, image, score))
  
 
     return result_images
@@ -68,7 +70,7 @@ def index():
         top_images = get_images(text_query, folder_name)
 
         if top_images:
-            return render_template('result.html', top_images=top_images)
+            return render_template('index.html', text_query = text_query, top_images=top_images)
         else:
             return "No matching images found."
     return render_template('index.html')
