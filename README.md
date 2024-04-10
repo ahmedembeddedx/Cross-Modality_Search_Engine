@@ -7,6 +7,12 @@ This project is a Multi-Modal Search Engine developed using CLIP by OpenAI, with
 This project provides a seamless web interface where users can input text queries, and the system retrieves relevant images based on the textual description based on CLIP Architecture.
 
 ## Take a look
+<a href="https://ibb.co/mbx781N"><img src="https://i.ibb.co/6rd5BVX/Screenshot-2024-04-10-at-11-02-35-PM.png" alt="Screenshot-2024-04-10-at-11-02-35-PM" border="0"></a>
+<a href="https://ibb.co/MSwmjRD"><img src="https://i.ibb.co/2hVTLj7/Screenshot-2024-04-10-at-11-02-46-PM.png" alt="Screenshot-2024-04-10-at-11-02-46-PM" border="0"></a>
+<a href="https://ibb.co/PG41n3N"><img src="https://i.ibb.co/3mWSqG7/Screenshot-2024-04-10-at-11-03-23-PM.png" alt="Screenshot-2024-04-10-at-11-03-23-PM" border="0"></a>
+<a href="https://ibb.co/ynYHHQK"><img src="https://i.ibb.co/LzJVVZB/Screenshot-2024-04-10-at-11-03-51-PM.png" alt="Screenshot-2024-04-10-at-11-03-51-PM" border="0"></a>
+<a href="https://ibb.co/W38kLK5"><img src="https://i.ibb.co/xs91N5L/Screenshot-2024-04-10-at-11-04-14-PM.png" alt="Screenshot-2024-04-10-at-11-04-14-PM" border="0"></a>
+
 [![Watch the YouTube video](https://img.youtube.com/vi/FbiKR7LwRJ0/0.jpg)](https://youtu.be/FbiKR7LwRJ0)
 
 ## How to use
