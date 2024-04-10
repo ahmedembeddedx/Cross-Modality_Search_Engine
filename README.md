@@ -1,6 +1,6 @@
 # Multi-Modal Search Engine
 
-This project is a Multi-Modal Search Engine developed using CLIP by OpenAI, with Flask API for backend and React for the frontend web application.
+This project is a Multi-Modal Search Engine developed using CLIP by OpenAI, with Flask API for backend and HTML/CSS for the frontend web application.
 
 ## Introduction
 
