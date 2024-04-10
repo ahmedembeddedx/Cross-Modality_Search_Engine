@@ -1,12 +1,21 @@
 # Multi-Modal Search Engine
 
-This project is a Multi-Modal Search Engine developed using CLIP by OpenAI, with Flask API for backend and React for the frontend web application.
+This project is a Multi-Modal Search Engine developed using CLIP by OpenAI, with Flask API for backend and HTML/CSS for the frontend web application.
 
 ## Introduction
 
-The Multi-Modal Search Engine leverages the power of CLIP (Contrastive Language-Image Pre-training) developed by OpenAI to enable users to search for images using natural language queries. This project provides a seamless web interface where users can input text queries, and the system retrieves relevant images based on the textual description.
+This project provides a seamless web interface where users can input text queries, and the system retrieves relevant images based on the textual description based on CLIP Architecture.
 
-[![Demo](https://img.youtube.com/vi/YH7euOVIIYU/0.jpg)](https://www.youtube.com/watch?v=YH7euOVIIYU)
+## Take a look
+[![Watch the YouTube video](https://img.youtube.com/vi/FbiKR7LwRJ0/0.jpg)](https://youtu.be/FbiKR7LwRJ0)
+
+## How to use
+- sample data of 130 images is present in the file
+(or)
+- follow these steps to deal with your own images
+- place your images in ```src/minidata```
+- run the notebook ```src/image-processor```
+- move the data in ```src/image_embeddings``` & the data in ```src/minidata``` to ```flaskapp/image_embeddings``` & ```flaskapp/static``` respectively (caution: transfer the data, not the directories)
 
 ## Features
 
@@ -14,69 +23,34 @@ The Multi-Modal Search Engine leverages the power of CLIP (Contrastive Language-
 - **Intuitive Web Interface:** The frontend is built using React to provide a user-friendly experience.
 - **Scalable Backend:** Flask API serves as the backend, handling requests and interacting with the CLIP model.
 
-## Installation
 
-### Prerequisites
 
-- Python 3.6 or later
-- Node.js and npm
-- Flask
-- React
 
-### Instructions
 
-1. Clone the repository:
+Clone the repository:
 
    ```bash
    git clone https://github.com/ahmedembeddedx/Multi-Modal_Search_Engine.git
    ```
 
-2. Install dependencies for the backend:
-
-   ```bash
-   cd Multi-Modal_Search_Engine/backend
-   pip install -r requirements.txt
-   ```
-
-3. Install dependencies for the frontend:
-
-   ```bash
-   cd ../frontend
-   npm install
-   ```
 
 ## Usage
 
-1. Start the backend server:
+Start the backend server:
 
    ```bash
-   cd ../backend
-   python app.py
+   cd flaskapp/
+   flask run
    ```
 
-2. Start the frontend development server:
+Access the web application in your browser at `http://127.0.0.1:5000/`.
 
-   ```bash
-   cd ../frontend
-   npm start
-   ```
-
-3. Access the web application in your browser at `http://localhost:3000`.
-
-## Contributing
-
-Contributions are welcome! Please feel free to fork the repository and submit pull requests to contribute to this project.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
+## Stacks
 - [OpenAI](https://openai.com) for developing CLIP.
 - [Flask](https://flask.palletsprojects.com/) for the backend framework.
-- [React](https://reactjs.org/) for the frontend framework.
 
----
 
-Feel free to customize this README template further to include any additional information about your project, such as deployment instructions, troubleshooting tips, or examples of usage.
+## Future Expectences
+- Shift the app to react js
+- Use ImageBind by MetaAI
+- More accurate modal evaluation
