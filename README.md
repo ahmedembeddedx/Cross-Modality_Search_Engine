@@ -9,11 +9,11 @@ This project provides a seamless web interface where users can input text querie
 
 
 ## Take a look
-<img src="https://i.ibb.co/hBJYFT4/Screenshot-2024-04-10-at-11-02-35-PM.jpg" alt="Screenshot-2024-04-10-at-11-02-35-PM" border="0">
 <img src="https://i.ibb.co/5X0P5kt/Screenshot-2024-04-10-at-11-02-46-PM.jpg" alt="Screenshot-2024-04-10-at-11-02-46-PM" border="0">
 <img src="https://i.ibb.co/mC0rZZq/Screenshot-2024-04-10-at-11-03-23-PM.jpg" alt="Screenshot-2024-04-10-at-11-03-23-PM" border="0">
 <img src="https://i.ibb.co/PtTgF57/Screenshot-2024-04-10-at-11-03-51-PM.jpg" alt="Screenshot-2024-04-10-at-11-03-51-PM" border="0">
 <img src="https://i.ibb.co/yY1cR0q/Screenshot-2024-04-10-at-11-04-14-PM.jpg" alt="Screenshot-2024-04-10-at-11-04-14-PM" border="0">
+<img src="https://i.ibb.co/hBJYFT4/Screenshot-2024-04-10-at-11-02-35-PM.jpg" alt="Screenshot-2024-04-10-at-11-02-35-PM" border="0">
 
 ## Demo Video
 [![Watch the YouTube video](https://img.youtube.com/vi/FbiKR7LwRJ0/0.jpg)](https://youtu.be/FbiKR7LwRJ0)
