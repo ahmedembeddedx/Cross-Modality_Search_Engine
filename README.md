@@ -1,4 +1,4 @@
-# Multi-Modal Search Engine
+# Multimodal Search Engine
 
 This project is a Multi-Modal Search Engine developed using CLIP by OpenAI, with Flask API for backend and HTML/CSS for the frontend web application.
 
@@ -17,7 +17,8 @@ This project provides a seamless web interface where users can input text querie
 
 ## Demo Video
 [![Watch the YouTube video](https://img.youtube.com/vi/FbiKR7LwRJ0/0.jpg)](https://youtu.be/FbiKR7LwRJ0)
-This video demonstrates how to use our project's main feature. 
+
+- This video demonstrates how to use our project's main feature. 
 
 
 ## How to use for your own images?
